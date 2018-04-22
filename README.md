@@ -1,6 +1,5 @@
-# funfact
+# Flutter - Building a Complete Fun Fact App
 
-A new Flutter project.
 
 ## Getting Started
 
